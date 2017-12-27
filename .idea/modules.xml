@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CallableStatement.iml" filepath="$PROJECT_DIR$/CallableStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySQL.iml" filepath="$PROJECT_DIR$/MySQL.iml" />
     </modules>
   </component>
 </project>

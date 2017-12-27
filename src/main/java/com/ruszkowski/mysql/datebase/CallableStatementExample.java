@@ -10,7 +10,8 @@ public class CallableStatementExample {
   public static void main(String args[]) {
 
     String dbUrl = "jdbc:mysql://localhost:3306/demo"
-        + "?useSSL=false&autoReconnect=true&useLegacyDatetimeCode=false&serverTimezone=CET";
+        + "?useSSL=false&autoReconnect=true"
+        + "&useLegacyDatetimeCode=false&serverTimezone=CET";
     String user = "root";
     String password = "babajaga4";
 

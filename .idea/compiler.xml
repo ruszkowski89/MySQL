@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CallableStatement" />
+        <module name="MySQL" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CallableStatement" target="1.5" />
+      <module name="MySQL" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
